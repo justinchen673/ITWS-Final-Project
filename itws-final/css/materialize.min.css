@@ -3,20 +3,27 @@
 }
 
 #navlinks {
-	font-size: 15pt;
+  font-size: 15pt;
 }
 
 #copyrighttext {
-	padding-top: 10px;
+  padding-top: 10px;
 }
 
 footer {
-   position:absolute;
-   bottom:0;
-   width:100%;
-   height:60px;   /* Height of the footer */
-   background: #ee6e73;
-   padding-left: 10px;
+  position:absolute;
+  bottom:0;
+  width:100%;
+  height:60px;   /* Height of the footer */
+  background: #ee6e73;
+  padding-left: 10px;
+}
+
+#placeholder {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
 }
 
 /*!
